@@ -1,0 +1,19 @@
+body {
+
+   background: url(../img/blur-background-og.jpeg) 
+   no-repeat;
+}
+.wrap {
+border: 5px solid rgba(255, 255, 255, .5);
+height: 400px;
+width: 400px;
+margin: 50px;
+border-radius: 50%;
+}
+.inner {
+   background: rgba(255, 255, 255, .5);
+   height: 380px;
+   width: 380px;
+   border-radius: 50%; 
+   margin: auto; /* Horizontal Center */
+   margin-top: 10px;
